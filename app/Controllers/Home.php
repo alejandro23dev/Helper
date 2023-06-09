@@ -8,6 +8,6 @@ class Home extends BaseController
 		return view('home/index');
 	}
 
-	//--------------------------------------------------------------------
+
 
 }
