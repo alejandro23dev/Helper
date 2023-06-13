@@ -96,11 +96,26 @@ https://www.tooplate.com/view/2115-marvel
             <h2>Como Iniciar Sesión?</h2>
           </div>
 
-          <div class="comoIniciarSesión-info">
-            <div class="card-body">
-              <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                <p>1. Introduzca la información en los campos correspondientes.</p>
-                <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+          <div class="owl-carousel owl-theme">
+            <div class="item">
+              <div class="comoIniciarSesión-info">
+                <div class="card-body">
+                  <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
+                    <h3 class="fst-italic">Registrarme</h3>
+                    <p>1. Introduzca la información en los campos correspondientes.</p>
+                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="comoIniciarSesión-info">
+                <div class="card-body">
+                  <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
+                    <h3 class="fst-italic">Estado de Cuenta</h3>
+                    <p>Tu estado de cuenta lo controla un Administrador y puede ser <span class="badge bg-success">Activo</span> o <span class="badge bg-danger">Inactivo</span>, si se encuentra activo podrás logearte y realizar las operaciones permitidas en tu cuenta, sino, no podrás realizar nada de lo mencionado anteriormente. </p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -120,8 +135,12 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Crear</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
+                    <p>3. Haz clic en el botón <button class="btn btn-success">Crear Empleado</button>.</p>
+                    <p>4. Complete los campos y presiona en <span class="btn btn-primary">Guardar</span></p>
+                    <p class="badge bg-warning fw-bold p-2 mt-4"><span class="text-black">IMPORTANTE</span></p>
+                    <p class="text-warning">No se pueden crear dos empleados con la misma dirección de correo.</p>
                   </div>
                 </div>
               </div>
@@ -131,8 +150,10 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Editar</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
+                    <p>3. Haz clic en el botón <button class="ms-1 me-1 btn btn-sm btn-warning"><span class="mdi mdi-account-edit-outline" title="Editar Empleado"></span></button>.</p>
+                    <p>4. Edita los datos que desees y presiona en <span class="btn btn-primary">Guardar</span></p>
                   </div>
                 </div>
               </div>
@@ -142,8 +163,9 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Eliminar</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
+                    <p>3. Haz clic en el botón <button class="ms-1 me-1 btn btn-sm btn-danger btn-delete-employee"><span class="mdi mdi-trash-can-outline" title="Eliminar Empleado"></span></button> del empleado al que deseas eliminar.</p>
                   </div>
                 </div>
               </div>
@@ -153,8 +175,9 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Activar / Desactivar</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
+                    <p>3. Haz clic en el <span class="text-primary fst-italic">switch</span> a la derecha del empleado al que deseas Activar o Desactivar.</p>
                   </div>
                 </div>
               </div>
@@ -176,8 +199,12 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Crear</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Productos</span></p>
+                    <p>3. Haz clic en el botón <button class="btn btn-success">Crear Producto</button>.</p>
+                    <p>4. Complete los campos y presiona en <span class="btn btn-primary">Guardar</span></p>
+                    <p class="badge bg-warning fw-bold p-2 mt-4"><span class="text-black">IMPORTANTE</span></p>
+                    <p class="text-warning">No se pueden crear dos productos con el mismo nombre.</p>
                   </div>
                 </div>
               </div>
@@ -187,19 +214,10 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Editar</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="operacionesConProductos-info">
-                <div class="card-body">
-                  <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Eliminar</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Productos</span></p>
+                    <p>3. Haz clic en el botón <button class="ms-1 me-1 btn btn-sm btn-warning"><span class="mdi mdi-pencil" title="Editar Producto"></span></button>.</p>
+                    <p>4. Edita los datos que desees y presiona en <span class="btn btn-primary">Guardar</span></p>
                   </div>
                 </div>
               </div>
@@ -209,8 +227,9 @@ https://www.tooplate.com/view/2115-marvel
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
                     <h3 class="fst-italic">Activar / Desactivar</h3>
-                    <p> </p>
-                    <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
+                    <p>1. Tienes que tener role de ADMINISTRADOR.</p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Productos</span></p>
+                    <p>3. Haz clic en el <span class="text-primary fst-italic">switch</span> a la derecha del producto al que deseas Activar o Desactivar.</p>
                   </div>
                 </div>
               </div>
