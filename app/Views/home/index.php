@@ -101,7 +101,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="comoIniciarSesión-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Registrarme</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Registrarme</p>
                     <p>1. Introduzca la información en los campos correspondientes.</p>
                     <p>2. Presione <button class="btn btn-primary">Entrar</button></p>
                   </div>
@@ -112,7 +112,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="comoIniciarSesión-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Estado de Cuenta</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Estado de Cuenta</p>
                     <p>Tu estado de cuenta lo controla un Administrador y puede ser <span class="badge bg-success">Activo</span> o <span class="badge bg-danger">Inactivo</span>, si se encuentra activo podrás logearte y realizar las operaciones permitidas en tu cuenta, sino, no podrás realizar nada de lo mencionado anteriormente. </p>
                   </div>
                 </div>
@@ -134,9 +134,9 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConEmpleados-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Crear</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Crear</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
-                    <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
+                    <p>2. Entra en la sección <span class="text-primary fst-italic">Empleados</span></p>
                     <p>3. Haz clic en el botón <button class="btn btn-success">Crear Empleado</button>.</p>
                     <p>4. Complete los campos y presiona en <span class="btn btn-primary">Guardar</span></p>
                     <p class="badge bg-warning fw-bold p-2 mt-4"><span class="text-black">IMPORTANTE</span></p>
@@ -149,7 +149,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConEmpleados-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Editar</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Editar</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
                     <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
                     <p>3. Haz clic en el botón <button class="ms-1 me-1 btn btn-sm btn-warning"><span class="mdi mdi-account-edit-outline" title="Editar Empleado"></span></button>.</p>
@@ -162,7 +162,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConEmpleados-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Eliminar</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Eliminar</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
                     <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
                     <p>3. Haz clic en el botón <button class="ms-1 me-1 btn btn-sm btn-danger btn-delete-employee"><span class="mdi mdi-trash-can-outline" title="Eliminar Empleado"></span></button> del empleado al que deseas eliminar.</p>
@@ -174,7 +174,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConEmpleados-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Activar / Desactivar</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Activar / Desactivar</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
                     <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Empleados</span></p>
                     <p>3. Haz clic en el <span class="text-primary fst-italic">switch</span> a la derecha del empleado al que deseas Activar o Desactivar.</p>
@@ -198,7 +198,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConProductos-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Crear</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Crear</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
                     <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Productos</span></p>
                     <p>3. Haz clic en el botón <button class="btn btn-success">Crear Producto</button>.</p>
@@ -213,7 +213,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConProductos-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Editar</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Editar</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
                     <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Productos</span></p>
                     <p>3. Haz clic en el botón <button class="ms-1 me-1 btn btn-sm btn-warning"><span class="mdi mdi-pencil" title="Editar Producto"></span></button>.</p>
@@ -226,7 +226,7 @@ https://www.tooplate.com/view/2115-marvel
               <div class="operacionesConProductos-info">
                 <div class="card-body">
                   <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
-                    <h3 class="fst-italic">Activar / Desactivar</h3>
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Activar / Desactivar</p>
                     <p>1. Tienes que tener role de ADMINISTRADOR.</p>
                     <p>2. Entra en la sección <span class="text-primary fst-italic">Lista De Productos</span></p>
                     <p>3. Haz clic en el <span class="text-primary fst-italic">switch</span> a la derecha del producto al que deseas Activar o Desactivar.</p>
@@ -248,38 +248,33 @@ https://www.tooplate.com/view/2115-marvel
 
           <div class="owl-carousel owl-theme">
             <div class="item">
-              <div class="project-info">
-                <img src="images/project/project-image01.png" class="img-fluid" alt="project image">
+              <div class="tpv">
+                <div class="card-body">
+                  <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
+                  <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Crear Ticket</p>
+                    <p>1. Seleccione el o los tipos de producto que se vendieron.</p>
+                    <p>2. Presione <button class="btn btn-success">Cobrar</button></p>
+                    <p>2. Seleccione el método de pago que se va a efectuar.</p>
+                    <p>2. Presione <button class="btn btn-primary">Guardar</button> y se redirigirá a la sección de los detalles del empleado en el cual se está logueado</p>
+                  </div>
+                </div>
               </div>
             </div>
-
             <div class="item">
-              <div class="project-info">
-                <img src="images/project/project-image02.png" class="img-fluid" alt="project image">
-              </div>
-            </div>
-
-            <div class="item">
-              <div class="project-info">
-                <img src="images/project/project-image03.png" class="img-fluid" alt="project image">
-              </div>
-            </div>
-
-            <div class="item">
-              <div class="project-info">
-                <img src="images/project/project-image04.png" class="img-fluid" alt="project image">
-              </div>
-            </div>
-
-            <div class="item">
-              <div class="project-info">
-                <img src="images/project/project-image05.png" class="img-fluid" alt="project image">
+              <div class="tpv">
+                <div class="card-body">
+                  <div class="card col-8 mx-auto" style="background-color: #dbdbdb; box-shadow: 0px 0px 15px black;">
+                    <p class="fst-italic" style="font-size: 25px; font-weight: bold;">Editar Método de Pago</p>
+                    <p>1. Seleccione en la sección Tipo de Cobro de la tabla, el icono <i class="mdi mdi-comment-edit-outline text-warning"></i> y seleccione el nuevo método de pago. </p>
+                    <p>2. Presione <button class="btn btn-primary">Guardar</button></p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-
         </div>
       </div>
+
     </div>
   </section>
 
